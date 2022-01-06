@@ -3,6 +3,7 @@
 #### Sou pai de gêmeos 👨‍👩‍👧‍👦 , apaixonado por tecnologia 💻 e por pessoas, gosto de me conectar e sempre que possível ajudar, precisando só chamar 😄 
 #### Café é vida! ☕ 
 #### Pronomes: ele / dele
+<a href ='https://www.linkedin.com/in/esdrasten%C3%B3rio/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
 <div align="center">
 <a href= 'https://github.com/EsdrasTMendes'>
 <img height= '180em' src= 'https://github-readme-stats.vercel.app/api?username=EsdrasTMendes&show_icons=true&theme=gruvbox'>
@@ -19,7 +20,7 @@
   ##
  
 <div>
-<a href ='https://www.linkedin.com/in/esdrasten%C3%B3rio/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
+
  
   ![Snake animation](https://github.com/EsdrasTMendes/EsdrasTMendes/blob/output/github-contribution-grid-snake.svg)
  
