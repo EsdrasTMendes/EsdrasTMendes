@@ -25,3 +25,6 @@
   ![Snake animation](https://github.com/EsdrasTMendes/EsdrasTMendes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  <div>
+  <img src="https://komarev.com/ghpvc/?username=EsdrasTMendes" alt="profile views" />
+  </div>
