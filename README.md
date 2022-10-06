@@ -29,7 +29,7 @@
   <img align='center' alt="" src= "">
 </div>
   
-## Tecnologias com conhecimento e em aperfeiçoamento:
+## Tecnologias com conhecimento em aperfeiçoamento:
   
 <div style="display: inline_block"><br>
   <img align='center' alt="TypeScript Icon" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
