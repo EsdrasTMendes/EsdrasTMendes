@@ -1,5 +1,5 @@
 # Saudações! Me chamo Esdras Tenório e estou iniciando minha jornada como dev 🚀 
-#### Sou pessoa estudante na Trybe 
+#### Sou Desenvolvedor Full Stack, Back-End e Front-End! 
 #### Sou pai de gêmeos 👨‍👩‍👧‍👦 , apaixonado por tecnologia 💻 e por pessoas, gosto de me conectar e sempre que possível ajudar, precisando só chamar 😄 
 #### Café é vida! ☕ 
 #### Pronomes: ele / dele
