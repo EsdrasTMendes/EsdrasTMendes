@@ -71,16 +71,6 @@ Sou colaborativo, curioso e movido por desafios técnicos. Já participei de pro
 
 ---
 
-## 💼 Projetos em destaque
-
-> Confira alguns dos meus projetos no repositório abaixo. Todos os códigos são desenvolvidos com foco em boas práticas, documentação clara e atenção aos detalhes técnicos.
-
-- [`Projeto Fullstack Vue + Laravel`](https://github.com/EsdrasTMendes/NOME_DO_PROJETO) — setup Docker, migrations, seeders, arquitetura organizada.
-- [`API RESTful com autenticação JWT`](https://github.com/EsdrasTMendes/NOME_DO_PROJETO) — estrutura modular e testes de unidade.
-- [`Aplicação com Clean Architecture`](https://github.com/EsdrasTMendes/NOME_DO_PROJETO) — separação por camadas, domain-driven design.
-
----
-
 ## ⚡ Fun facts
 
 - 🧠 Estudando Java, Kotlin e arquitetura de microsserviços
