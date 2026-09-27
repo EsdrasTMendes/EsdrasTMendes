@@ -1,8 +1,9 @@
 <h1 align="center">Esdras Tenório Mendes</h1>
 
 <p align="center">
-Desenvolvedor Full Stack com foco em performance, arquitetura limpa e boas práticas.<br/>
-Apaixonado por código limpo, soluções inteligentes e por transformar café em software ☕🚀
+Coordenador de Sustentação & Desenvolvedor Full Stack.<br/>
+Focado em resiliência de software, liderança técnica e arquitetura limpa.<br/>
+Apaixonado por código bem estruturado, soluções inteligentes e por transformar café em estabilidade ☕🚀
 </p>
 
 <div align="center">
@@ -21,12 +22,13 @@ Apaixonado por código limpo, soluções inteligentes e por transformar café em
 
 ## 👨‍💻 Sobre mim
 
-Atuo como Desenvolvedor Full Stack, com foco em backend Laravel + PHP, mas com mão firme também no frontend com React e Vue.js.  
-Tenho sólida experiência com bancos de dados relacionais, APIs RESTful e práticas modernas de engenharia de software (SOLID, Clean Code, TDD).  
+Atualmente atuo como **Coordenador de Sustentação**, onde meu foco é garantir a estabilidade, performance e evolução contínua de sistemas críticos, além de liderar a equipe técnica na resolução de problemas complexos em produção.
 
-Sou colaborativo, curioso e movido por desafios técnicos. Já participei de projetos complexos desde a arquitetura até a entrega final, sempre buscando excelência.
+Minha base é forte como Desenvolvedor Full Stack, transitando com segurança no backend (Laravel/PHP) e no frontend (React/Vue.js). Tenho sólida experiência com bancos de dados relacionais, APIs RESTful e sou um defensor ativo de práticas modernas de engenharia de software (SOLID, Clean Code, TDD).
 
-🧠 Em constante evolução — hoje aprofundando em arquitetura de software, microsserviços e boas práticas em Java/Kotlin.
+Sou colaborativo, curioso e movido pela oportunidade de liderar pelo exemplo. Gosto de atuar em todo o ciclo de vida do software: desde a concepção da arquitetura até o monitoramento e resolução de incidentes em produção, sempre buscando excelência.
+
+🧠 Em constante evolução — aprofundando em arquitetura de software, microsserviços, observabilidade e ecossistema Java/Kotlin.
 
 ---
 
@@ -34,7 +36,7 @@ Sou colaborativo, curioso e movido por desafios técnicos. Já participei de pro
 
 <div align="left">
   
-**Back-end:**  
+**Back-end & Arquitetura:**  
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -52,7 +54,7 @@ Sou colaborativo, curioso e movido por desafios técnicos. Já participei de pro
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-**DevOps e Ferramentas:**  
+**DevOps, Qualidade & Ferramentas:**  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -60,23 +62,15 @@ Sou colaborativo, curioso e movido por desafios técnicos. Já participei de pro
 
 </div>
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsdrasTMendes&show_icons=true&theme=github_dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasTMendes&layout=compact&theme=github_dark"/>
-</div>
-
----
 
 ## ⚡ Fun facts
 
-- 🧠 Estudando Java, Kotlin e arquitetura de microsserviços
-- 🧒🧒 Pai de gêmeos (sim, o deploy mais desafiador!)
+- 🧠 Estudando ecossistema Java/Kotlin e arquitetura de microsserviços
+- 🧒🧒 Pai de gêmeos (sim, o deploy mais imprevisível e desafiador da minha vida!)
+- 🛡️ Especialista em caçar bugs em produção e manter a calma no caos
 - 💬 Pronomes: Ele/Dele
-- ☕ Combustível oficial: café com código
+- ☕ Combustível oficial: café expresso duplo
 
 ---
 
